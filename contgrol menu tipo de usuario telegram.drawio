@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Control de Menú por Tipo de Usuario" id="__77_0sm46Dw4pWzdd7a">
+    <mxGraphModel dx="724" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1FdK_4VGA9RufeuqpgU1-2" value="Sistema de Control de Menú&#xa;por Tipo de Usuario" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="200" y="50" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1FdK_4VGA9RufeuqpgU1-3" value="Usuario Admin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1FdK_4VGA9RufeuqpgU1-4" value="Usuario Premium" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1FdK_4VGA9RufeuqpgU1-5" value="Usuario Básico" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1FdK_4VGA9RufeuqpgU1-6" value="Invitado" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="700" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1FdK_4VGA9RufeuqpgU1-7" value="MenuButtonWebApp&#xa;(Gestión avanzada)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="350" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1FdK_4VGA9RufeuqpgU1-8" value="MenuButtonCommands&#xa;(Acceso extendido)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="350" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1FdK_4VGA9RufeuqpgU1-9" value="MenuButtonDefault&#xa;(Funciones básicas)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="350" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1FdK_4VGA9RufeuqpgU1-10" value="Sin menú activo&#xa;(Solo bienvenida)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="350" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
