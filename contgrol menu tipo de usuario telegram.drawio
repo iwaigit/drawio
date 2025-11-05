@@ -1,0 +1,99 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9" pages="2">
+  <diagram name="Control de Menú por Tipo de Usuario" id="__77_0sm46Dw4pWzdd7a">
+    <mxGraphModel dx="906" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1FdK_4VGA9RufeuqpgU1-2" value="Sistema de Control de Menú&#xa;por Tipo de Usuario" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="320" y="40" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1FdK_4VGA9RufeuqpgU1-3" value="Usuario Admin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;" parent="1" vertex="1">
+          <mxGeometry x="30" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1FdK_4VGA9RufeuqpgU1-4" value="Usuario Colaboradores" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;" parent="1" vertex="1">
+          <mxGeometry x="200" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1FdK_4VGA9RufeuqpgU1-5" value="Usuario Cliente" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;" parent="1" vertex="1">
+          <mxGeometry x="540" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1FdK_4VGA9RufeuqpgU1-6" value="Invitado" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;" parent="1" vertex="1">
+          <mxGeometry x="700" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m-6Om4AzdbLy5h_vH2it-1" value="Usuario Cliente VIP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="370" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6a8SGb-UoUILYC91LCjW" name="IWAI BOT FARMASI Control jerárquico de usuarios">
+    <mxGraphModel dx="906" dy="1419" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-1" value="IWAI BOT FARMASI&#xa;Control jerárquico de usuarios" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="-240" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-2" value="Admin (Control total)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="327" y="-140" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-3" value="Influencer (Líder Farmasi)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="327" y="-50" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-4" value="Sellers (Vendedores por niveles)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="327" y="40" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-5" value="Seller Asociado (Nivel I)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5e1;strokeColor=#6aa84f;" vertex="1" parent="1">
+          <mxGeometry x="117" y="140" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-6" value="Seller Senior (Nivel II)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5e1;strokeColor=#6aa84f;" vertex="1" parent="1">
+          <mxGeometry x="347" y="140" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-7" value="Seller Máster (Nivel III)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5e1;strokeColor=#6aa84f;" vertex="1" parent="1">
+          <mxGeometry x="577" y="140" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-8" value="Usuarios (Clientes y prospectos)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e1f5;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="327" y="260" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-9" value="Lead Hot (Listo para compra)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eefc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="117" y="360" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-10" value="Lead Cold (Nurturing)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eefc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="347" y="360" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-11" value="Invitado (Acceso general)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eefc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="577" y="360" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-1" target="2fWqvn7GhWzLY6lKfrJm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-2" target="2fWqvn7GhWzLY6lKfrJm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-3" target="2fWqvn7GhWzLY6lKfrJm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-4" target="2fWqvn7GhWzLY6lKfrJm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-4" target="2fWqvn7GhWzLY6lKfrJm-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-4" target="2fWqvn7GhWzLY6lKfrJm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-7" target="2fWqvn7GhWzLY6lKfrJm-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-8" target="2fWqvn7GhWzLY6lKfrJm-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-8" target="2fWqvn7GhWzLY6lKfrJm-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-8" target="2fWqvn7GhWzLY6lKfrJm-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
