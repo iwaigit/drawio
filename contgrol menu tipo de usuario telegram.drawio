@@ -26,72 +26,81 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6a8SGb-UoUILYC91LCjW" name="IWAI BOT FARMASI Control jerÃ¡rquico de usuarios">
-    <mxGraphModel dx="904" dy="1419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="972" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-1" value="IWAI BOT FARMASI&#xa;Control jerÃ¡rquico de usuarios" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="327" y="-240" width="360" height="70" as="geometry" />
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-22" value="IWAI BOT FARMASI&#xa;JerarquÃ­a y control de accesos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-680" width="380" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-2" value="Admin (Control total)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="327" y="-140" width="260" height="60" as="geometry" />
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-23" value="Admin (Control total del sistema)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-580" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-3" value="Influencer (LÃ­der Farmasi)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="327" y="-50" width="300" height="60" as="geometry" />
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-24" value="Influencer (LÃ­der de red Farmasi)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-490" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-4" value="Sellers (Vendedores por niveles)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="327" y="40" width="300" height="60" as="geometry" />
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-25" value="Sellers (Vendedores con niveles jerÃ¡rquicos)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-400" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-5" value="Seller Asociado (Nivel I)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5e1;strokeColor=#6aa84f;" vertex="1" parent="1">
-          <mxGeometry x="117" y="140" width="200" height="60" as="geometry" />
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-26" value="Seller Asociado (Nivel I)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5e1;strokeColor=#6aa84f;" vertex="1" parent="1">
+          <mxGeometry y="-300" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-6" value="Seller Senior (Nivel II)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5e1;strokeColor=#6aa84f;" vertex="1" parent="1">
-          <mxGeometry x="347" y="140" width="200" height="60" as="geometry" />
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-27" value="Seller Senior (Nivel II)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5e1;strokeColor=#6aa84f;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-300" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-7" value="Seller MÃ¡ster (Nivel III)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5e1;strokeColor=#6aa84f;" vertex="1" parent="1">
-          <mxGeometry x="577" y="140" width="200" height="60" as="geometry" />
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-28" value="Seller MÃ¡ster (Nivel III)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5e1;strokeColor=#6aa84f;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-300" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-8" value="Usuarios (Clientes y prospectos)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e1f5;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="327" y="260" width="300" height="60" as="geometry" />
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-29" value="Usuarios (Clientes y prospectos)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e1f5;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-180" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-9" value="Lead Hot (Listo para compra)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eefc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="117" y="360" width="200" height="60" as="geometry" />
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-30" value="Lead Hot (Listo para compra)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eefc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="-80" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-10" value="Lead Cold (Nurturing)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eefc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="347" y="360" width="200" height="60" as="geometry" />
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-31" value="Lead Cold (InterÃ©s inicial)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eefc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-80" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-11" value="Invitado (Acceso general)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eefc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="577" y="360" width="200" height="60" as="geometry" />
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-32" value="Invitado (Solo informaciÃ³n general)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eefc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-80" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-1" target="2fWqvn7GhWzLY6lKfrJm-2">
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-22" target="2fWqvn7GhWzLY6lKfrJm-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-2" target="2fWqvn7GhWzLY6lKfrJm-3">
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-23" target="2fWqvn7GhWzLY6lKfrJm-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-3" target="2fWqvn7GhWzLY6lKfrJm-4">
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-24" target="2fWqvn7GhWzLY6lKfrJm-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-4" target="2fWqvn7GhWzLY6lKfrJm-5">
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-25" target="2fWqvn7GhWzLY6lKfrJm-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-4" target="2fWqvn7GhWzLY6lKfrJm-6">
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-25" target="2fWqvn7GhWzLY6lKfrJm-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-4" target="2fWqvn7GhWzLY6lKfrJm-7">
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-25" target="2fWqvn7GhWzLY6lKfrJm-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-7" target="2fWqvn7GhWzLY6lKfrJm-8">
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-28" target="2fWqvn7GhWzLY6lKfrJm-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-8" target="2fWqvn7GhWzLY6lKfrJm-9">
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-29" target="2fWqvn7GhWzLY6lKfrJm-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-8" target="2fWqvn7GhWzLY6lKfrJm-10">
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-29" target="2fWqvn7GhWzLY6lKfrJm-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2fWqvn7GhWzLY6lKfrJm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-8" target="2fWqvn7GhWzLY6lKfrJm-11">
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="2fWqvn7GhWzLY6lKfrJm-29" target="2fWqvn7GhWzLY6lKfrJm-32">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-43" value="í ½í¿¦ JerarquÃ­a de roles&#xa;í ½í¿§ Nivel de permisos&#xa;í ½í¿© Acceso parcial&#xa;â¬œ Usuario base" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry y="-620" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-44" value="í ½í´¹ Admin: Crea, configura y supervisa el bot.&#xa;í ½í´¹ Influencer: Gestiona su red, configura marketing, accede a reportes.&#xa;í ½í´¹ Sellers: Gestionan ventas, pedidos, y consultan mÃ©tricas personales.&#xa;í ½í´¹ Lead Hot: Accede a cotizaciones y contacto directo.&#xa;í ½í´¹ Lead Cold: Recibe contenido y mensajes de retenciÃ³n.&#xa;í ½í´¹ Invitado: Solo informaciÃ³n pÃºblica y enlaces." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f9f9;strokeColor=#cccccc;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry y="20" width="700" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2fWqvn7GhWzLY6lKfrJm-45" value="í ½í²¡ Cada nivel puede asociarse a un flujo n8n distinto.&#xa;Se recomienda almacenar el tipo de usuario en la base de datos (por ejemplo en Firestore o PostgreSQL)&#xa;y filtrar los comandos / menÃºs del bot dinÃ¡micamente segÃºn el rol." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffbe6;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry y="180" width="700" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
